@@ -5,7 +5,7 @@ written in HTML and Javascript and a Back End written in NodeJS and ExpressJS wi
 
 WARNING! The two ends ARE NOT connected and work independently.
 
-The below pictures show the working capability of the two ends:
+The below picture show the working capability of the Front End:
 <img width="1345" height="579" alt="image" src="https://github.com/user-attachments/assets/485c8359-0270-45a4-8f87-a8c88611aa0d" />
 
 The image above shows the registration of a spell onto the front end of the web app. The spell can be upgraded
