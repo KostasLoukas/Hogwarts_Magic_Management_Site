@@ -1,7 +1,7 @@
 # Hogwarts Magic Management Site
 
 This project involves a management system for potions and spells from Hogwarts Magic School. It contains a Front End
-written in HTML and Javascript and a Back End written in NodeJS and ExpressJS and a database at MongoDB.
+written in HTML and Javascript and a Back End written in NodeJS and ExpressJS with a database at MongoDB.
 
 WARNING! The two ends ARE NOT connected and work independently.
 
