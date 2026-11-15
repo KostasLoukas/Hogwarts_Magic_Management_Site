@@ -5,7 +5,7 @@ import mongoose from 'mongoose';
 
 
 try {
-  mongoose.connect("mongodb://mpsp2522Exercise:CuMGd59LByXHAt5d@ac-yqymp6q-shard-00-02.aephhpj.mongodb.net:27017/MagicItems?appName=ClusterUnipi&authSource=MagicItemsCollection", {
+  mongoose.connect("********************************************************************************", {
         authSource:"admin",
         ssl: true,
   });
