@@ -17,8 +17,9 @@ the NodeJS web server connected with a MongoDB database.
 
 WARNING: For resource management, the database is paused for the time being and cannot be used to test the 
 functionality of the Back End properly. Thus, some examples of said requests and responses can be found
-below (they were recorded from Postman's interface). The requests are send via the link shown at the top of
-the page on Postman's interface and can include a body or not. The reponse from the server ALWAYS includes
+below (they were recorded from Postman's interface). However, you can use your own MongoDB database and credentials
+by replacing the *s in the server.js file on line 8 under the routes folder. The requests are send via the link shown at 
+the top of the page on Postman's interface and can include a body or not. The response from the server ALWAYS includes
 a body, if the request was valid:
 <img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/4511d8e9-0850-4a0f-aa4c-6f1a029b9337" />
 <img width="634" height="533" alt="image" src="https://github.com/user-attachments/assets/e5c6b45d-852d-49d3-bff7-a35b5dd2906f" />
