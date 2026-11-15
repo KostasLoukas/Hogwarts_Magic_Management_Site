@@ -22,12 +22,12 @@ by replacing the "*"s in the server.js file on line 8 under the "hmm" folder. Th
 the top of the page on Postman's interface and can include a body or not. The response from the server ALWAYS includes
 a body, if the request was valid:
 <img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/4511d8e9-0850-4a0f-aa4c-6f1a029b9337" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/e5c6b45d-852d-49d3-bff7-a35b5dd2906f" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/1346c956-a53a-4a73-92f9-f31de59cbb1c" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/29d6181f-4176-4545-bd4e-aa36bd8b70df" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/32923fb1-3604-45c1-9263-e9aff65e6ff1" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/ee040ef9-d962-4f4c-88e3-caa25f7c9481" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/7810d9e5-bb28-4007-ae5e-58202b8ca75d" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/265ef3b3-5b88-4c33-916a-a339b7a860b1" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/5468226c-a94a-4218-8757-c309f6a2c65c" />
-<img width="640" height="660" alt="image" src="https://github.com/user-attachments/assets/20391c44-33d1-4697-8217-b67d7654cbbe" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/e5c6b45d-852d-49d3-bff7-a35b5dd2906f" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/1346c956-a53a-4a73-92f9-f31de59cbb1c" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/29d6181f-4176-4545-bd4e-aa36bd8b70df" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/32923fb1-3604-45c1-9263-e9aff65e6ff1" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/ee040ef9-d962-4f4c-88e3-caa25f7c9481" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/7810d9e5-bb28-4007-ae5e-58202b8ca75d" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/265ef3b3-5b88-4c33-916a-a339b7a860b1" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/5468226c-a94a-4218-8757-c309f6a2c65c" />
+<img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/20391c44-33d1-4697-8217-b67d7654cbbe" />
